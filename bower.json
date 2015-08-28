@@ -1,0 +1,27 @@
+{
+  "name": "AngularProject",
+  "version": "0.1.0",
+  "homepage": "https://github.com/alexandrumogic/AngularProject",
+  "authors": [
+    "Alex <mogic.alexandru@gmail.com>"
+  ],
+  "description": "Make a website using AngularJS",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.4",
+    "jquery-ui": "~1.11.4",
+    "bootstrap": "~3.3.5",
+    "modernizr": "~2.8.3"
+  }
+}
